@@ -20,13 +20,7 @@ try:
 except:
     gTTS_avail = False
 
-# A very special thanks to two people:
-# First, irdumb, for sharing his past work on sfx.
-# Last, but certainly not least, tmerc. This would not exist without him.
-# His sound effects cog was the thing that got me involved with Red,
-# And the sound file management functions in this cog were written by him.
-# Without the help of these people,
-# I would be light years behind where I am now :)
+# Based on FlapJack's sfx.py https://github.com/flapjax/FlapJack-Cogs/blob/aa2c19891299e98a461306d9774151a9203d0e04/sfx/sfx.py
 
 
 class SuspendedPlayer:
